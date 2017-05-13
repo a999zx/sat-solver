@@ -1,7 +1,7 @@
 # sat-solver
 This is SAT solver.
 
-#### How to use
+### How to use
 sat-solver reads cnf files (\*.cnf) from 'stdin'.  
 First, build this by `make`.  
 Then, have sat-solver read a cnf file like  
