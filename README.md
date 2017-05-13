@@ -1,5 +1,5 @@
 # sat-solver
-This is SAT solver.
+This is SAT solver coded by OCaml.
 
 ### How to use
 sat-solver reads cnf files (\*.cnf) from `stdin`.  
